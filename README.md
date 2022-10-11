@@ -1,1 +1,1 @@
-# CSE 231 Digital Logic Design Lab
+# CSE-231L Digital Logic Design Lab
